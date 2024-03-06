@@ -18,7 +18,7 @@ const translates = (text, from, to) => new Promise((resolve, reject) => {
     const to = readlineSync.question('Translate to (ex. en/id) : ');
     while (true) {
     const text = readlineSync.question('Input text to translate : ');
-    const translate = await translates(text);
+    const translate = await translates(text, from, to);
     console.log(`Output text to translate: ${translate}`);
     console.log('')
     }
