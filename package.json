@@ -1,7 +1,25 @@
 {
+  "name": "@hamzahamru/autoTranslate",
+  "version": "1.0.0",
   "dependencies": {
-    "@solana/web3.js": "^1.78.5",
-    "https-proxy-agent": "^7.0.2",
-    "translate-google": "^1.5.0"
-  }
+    "translate-google": "^1.5.0",
+    "readline-sync": "^1.4.10",
+    "@hamzahamru/autofill-typeform": "^1.0.4",
+    "@hamzahamru/spafind": "^1.0.0"
+  },
+  "description": "Auto Translate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hamzahamru/autoTranslate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzahamru/autoTranslate/issues"
+  },
+  "homepage": "https://github.com/hamzahamru/autoTranslate#readme"
 }
