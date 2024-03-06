@@ -1,5 +1,5 @@
 {
-  "name": "@hamzahamru/autoTranslate",
+  "name": "@hamzahamru/auto-translate",
   "version": "1.0.0",
   "dependencies": {
     "translate-google": "^1.5.0",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hamzahamru/autoTranslate.git"
+    "url": "https://github.com/hamzahamru/auto-translate.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hamzahamru/autoTranslate/issues"
+    "url": "https://github.com/hamzahamru/auto-translate/issues"
   },
-  "homepage": "https://github.com/hamzahamru/autoTranslate#readme"
+  "homepage": "https://github.com/hamzahamru/auto-translate#readme"
 }
